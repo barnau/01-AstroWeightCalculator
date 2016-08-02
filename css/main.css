@@ -1,0 +1,50 @@
+ html {
+    background: url(../pictures/background.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+body {
+        margin: 0;
+        padding: 0;
+        font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+        
+    }
+    div {
+        width: 600px;
+        margin: 5em auto;
+        padding: 50px;
+        background-color: #fff;
+        border-radius: 1em;
+
+
+    }
+
+    #picBox {
+        margin:0;
+        padding:0;
+        position:absolute;
+        top: 1px;
+        left: 1px;
+        width:80px;
+        height:80px;
+        
+        
+
+        
+    }
+
+    /*@media screen and (min-width: 1275px) {
+
+        #picBox {
+            
+            float:right;
+            position:absolute;
+            right:390px;
+            top: 15px;
+        }
+
+    }*/
+    
+    
